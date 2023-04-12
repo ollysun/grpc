@@ -1,0 +1,12 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "pathv2".(÷ù˜Ð8ÁÝÜ›ö0
+]	java:S125"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8ôõ»›ö0
+H
+java:S1481"+Remove this unused "pathv2" local variable.(÷ù˜Ð8ÃÝÜ›ö0
+X	java:S125"<This block of commented-out lines of code should be removed.(—Û¬ž8€à¼›ö0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÛôûÿÿÿÿ8„§¼›ö0
+T
+java:S1128"2Remove this unused import 'com.moses.models.Type'.(ò®¼´øÿÿÿÿ8à¼›ö0
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å8à¼›ö0

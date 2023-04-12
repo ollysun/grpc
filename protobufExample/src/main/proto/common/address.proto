@@ -1,0 +1,13 @@
+syntax="proto3";
+
+package common;
+
+option java_multiple_files= true;
+option java_package = "com.moses.models";
+
+
+message Address{
+  int32 postBox = 1;
+  string street = 2;
+  string city = 3;
+}

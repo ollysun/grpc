@@ -1,0 +1,31 @@
+
+Y
+)src/main/java/com/moses/json/JPerson.java,7/4/74739b8fd8908997f6b86d70a4d3a4c3e3efdbd6
+`
+0src/main/java/com/moses/protobuf/PersonDemo.java,e/5/e59799793c4580e41a7e233f48928109724bb80d
+]
+-src/main/java/com/moses/protobuf/MapDemo.java,f/0/f08c30a6f87a92b85db17296cf0a7fc214a99d5f
+f
+6src/main/java/com/moses/protobuf/DefaultValueDemo.java,e/f/efe318424e08210bb31f66ad6aa7a1c7c14c9ffb
+O
+src/main/proto/common/car.proto,c/c/ccac78dbe47d0174036d815890a8727c769c445e
+K
+src/main/proto/dealer.proto,b/b/bb31e00176b76dd898bc814c4e7240ca02fe9f99
+S
+#src/main/proto/common/address.proto,6/9/69b2d9f842017aa9fd159679360e469cfc2a5b29
+K
+src/main/proto/person.proto,f/9/f9a63d1c709692db6b4e09e52f9d1de94df3e92d
+n
+>src/main/java/com/moses/protobuf/VersionCompatibilityTest.java,7/2/720aa3fe7b0aea011811d902a452a6d8db50e5ca
+e
+5src/main/java/com/moses/protobuf/PerformanceTest.java,2/f/2f900d14d07560a5313f1254b8fe354fd1e73b11
+P
+ src/main/proto/credentials.proto,3/f/3f14218671c06c3d074b42c3278d5e19561da4a3
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+e
+5src/main/java/com/moses/protobuf/CompositionDemo.java,9/e/9e289fea19e8ddba07b7ea0e3795546cfea2d4ad
+O
+src/main/proto/television.proto,3/8/38851ba6e8dd9b7902649a16c0a3dcd5c0ef844a
+_
+/src/main/java/com/moses/protobuf/OneOfDemo.java,9/c/9c5715f7ffda8053ce756c0622c0dfb8787a672c
