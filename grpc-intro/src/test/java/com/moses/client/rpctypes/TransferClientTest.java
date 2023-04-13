@@ -1,6 +1,5 @@
-package com.moses.client;
+package com.moses.client.rpctypes;
 
-import com.moses.models.BankServiceGrpc;
 import com.moses.models.TransferRequest;
 import com.moses.models.TransferServiceGrpc;
 import io.grpc.ManagedChannel;

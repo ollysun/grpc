@@ -1,4 +1,4 @@
-package com.moses.server;
+package com.moses.server.rpctypes;
 
 import com.moses.models.TransferRequest;
 import com.moses.models.TransferResponse;

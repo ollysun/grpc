@@ -1,4 +1,4 @@
-package com.moses.client;
+package com.moses.client.rpctypes;
 
 import com.moses.models.Balance;
 import io.grpc.stub.StreamObserver;

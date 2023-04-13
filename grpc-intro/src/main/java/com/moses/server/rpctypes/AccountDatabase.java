@@ -1,4 +1,4 @@
-package com.moses.server;
+package com.moses.server.rpctypes;
 
 import java.util.Map;
 import java.util.function.Function;

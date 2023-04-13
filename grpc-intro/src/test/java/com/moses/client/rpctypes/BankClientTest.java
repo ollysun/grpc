@@ -1,4 +1,4 @@
-package com.moses.client;
+package com.moses.client.rpctypes;
 
 import com.moses.models.*;
 import io.grpc.ManagedChannel;

@@ -1,7 +1,8 @@
-package com.moses.server;
+package com.moses.server.loadbalancing;
 
 import com.moses.models.Balance;
 import com.moses.models.DepositRequest;
+import com.moses.server.rpctypes.AccountDatabase;
 import io.grpc.stub.StreamObserver;
 
 public class CashStreamingRequest implements StreamObserver<DepositRequest> {

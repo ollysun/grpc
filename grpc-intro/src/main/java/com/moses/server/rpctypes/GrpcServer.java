@@ -1,9 +1,7 @@
-package com.moses.server;
+package com.moses.server.rpctypes;
 
 import io.grpc.Server;
 import io.grpc.ServerBuilder;
-
-import java.io.IOException;
 
 public class GrpcServer {
 
